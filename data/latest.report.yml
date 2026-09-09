@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.0"
   latestRelease: "v1.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:10:14Z
+  collectedAt: 2026-09-09T19:15:47Z
 timeline:
   created: 2010-03-03
   lastCommit: 2022-08-08
@@ -89,7 +89,7 @@ total:
   commit: 1408
 ---
 path: /home/runner/.x-repo/github.com/kobo/groovyserv
-collectedAt: 2026-09-09T05:10:16Z
+collectedAt: 2026-09-09T19:15:50Z
 loc:
   Groovy:
     code: 3406
