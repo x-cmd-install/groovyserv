@@ -169,4 +169,3 @@ total:
 ---
 
 ---
-{"id":10046328,"author":{"login":"nobeans","id":18579,"node_id":"MDQ6VXNlcjE4NTc5","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"MDc6UmVsZWFzZTEwMDQ2MzI4","tag_name":"v1.2.0","target_commitish":"master","name":"Version 1.2.0 (2018-3-13)","draft":false,"immutable":false,"prerelease":false,"created_at":"2018-03-12T14:35:44Z","updated_at":"2018-03-12T15:04:46Z","published_at":"2018-03-12T15:04:46Z","assets":[],"body":"- Changelog: https://kobo.github.io/groovyserv/changelog.html#version-120-2018-03-13\r\n- Download: http://kobo.github.io/groovyserv/download.html\r\n"}
